@@ -1,4 +1,4 @@
-name: web_dev_proxy
+name: web_dev_proxy_shelf
 description: a web dev proxy server that has implement request cors and cookie cors, base on shelf_proxy
 version: 1.0.0
 repository: https://github.com/hss01248/flutter_web_dev_proxy

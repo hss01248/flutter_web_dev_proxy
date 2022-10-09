@@ -1,7 +1,7 @@
 /// Support for doing something awesome.
 ///
 /// More dartdocs go here.
-library web_dev_proxy;
+library web_dev_proxy_shelf;
 
 export 'src/shelf_proxy_for_web_dev.dart';
 

@@ -2,7 +2,7 @@ a web dev proxy server that has implement request cors and cookie cors, base on 
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+* Modify response headers and cookie for cors in web dev
 
 ## Getting started
 
@@ -81,5 +81,6 @@ void transferCookies(http.StreamedResponse clientResponse,String localHost) {
 }
 ```
 
+# Thanks
 
-from the package authors, and more.
+https://pub.dev/packages/shelf_proxyfrom the package authors, and more.
