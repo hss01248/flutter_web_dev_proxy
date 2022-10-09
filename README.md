@@ -83,4 +83,4 @@ void transferCookies(http.StreamedResponse clientResponse,String localHost) {
 
 # Thanks
 
-https://pub.dev/packages/shelf_proxyfrom the package authors, and more.
+https://pub.dev/packages/shelf_proxy
